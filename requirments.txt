@@ -1,10 +1,12 @@
-
-streamlit
-pandas
-numpy
+plotly>=5.0.0
+streamlit>=1.0.0
+pandas>=1.0.0
+numpy>=1.0.0
 folium
 streamlit-folium
 geopandas
 matplotlib
 Pillow
-plotly
+
+
+
