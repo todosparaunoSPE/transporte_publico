@@ -7,4 +7,5 @@ matplotlib
 seaborn
 openpyxl
 scikit-learn
+folium
 
