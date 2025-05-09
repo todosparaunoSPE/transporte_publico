@@ -8,4 +8,5 @@ seaborn
 openpyxl
 scikit-learn
 folium
+streamlit_folium
 
