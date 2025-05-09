@@ -1,7 +1,7 @@
-plotly>=5.0.0
-streamlit>=1.0.0
-pandas>=1.0.0
-numpy>=1.0.0
+plotly
+streamlit
+pandas
+numpy
 folium
 streamlit-folium
 geopandas
